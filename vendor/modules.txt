@@ -1,0 +1,19 @@
+# github.com/refraction-networking/utls v0.0.0-20201210053706-2179f286686b
+## explicit
+github.com/refraction-networking/utls
+github.com/refraction-networking/utls/cpu
+# golang.org/x/crypto v0.0.0-20210711020723-a769d52b0f97
+## explicit
+golang.org/x/crypto/chacha20
+golang.org/x/crypto/chacha20poly1305
+golang.org/x/crypto/cryptobyte
+golang.org/x/crypto/cryptobyte/asn1
+golang.org/x/crypto/curve25519
+golang.org/x/crypto/curve25519/internal/field
+golang.org/x/crypto/hkdf
+golang.org/x/crypto/internal/subtle
+golang.org/x/crypto/poly1305
+golang.org/x/crypto/sha3
+# golang.org/x/sys v0.0.0-20210630005230-0f9fa26af87c
+## explicit
+golang.org/x/sys/cpu
